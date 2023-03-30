@@ -2,6 +2,6 @@ package com.denpm14;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("666");
+        System.out.println("777");
     }
 }
